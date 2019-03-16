@@ -1,7 +1,2 @@
 ssss
 dddd
-<<<<<<< HEAD
-eeee
-=======
-aaaa
->>>>>>> 5cc4759f0ca4ceac4c79e43492838c979ae187ce
